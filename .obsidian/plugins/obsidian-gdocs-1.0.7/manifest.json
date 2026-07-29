@@ -1,0 +1,10 @@
+{
+	"id": "gdocs",
+	"name": "GDocs",
+	"version": "1.0.7",
+	"minAppVersion": "1.8.0",
+	"description": "Open and embed Google Drive shortcut files (.gdoc, .gsheet, etc.) in notes and the editor tab.",
+	"author": "Olivier Rouiller",
+	"authorUrl": "https://github.com/oilandrust",
+	"isDesktopOnly": false
+}
