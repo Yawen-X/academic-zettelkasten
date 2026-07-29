@@ -39,14 +39,12 @@
             "id": "0edb01835beee072",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "gdocs-view",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/26 IYNA Essay.gdoc"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "26 IYNA Essay"
             }
           }
         ],
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Projects/26 IYNA Essay.gdoc",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 26 IYNA Essay"
             }
           },
           {
@@ -228,16 +226,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0edb01835beee072",
+  "active": "45ebab908fbab8f6",
   "lastOpenFiles": [
-    "README.md",
     "Untitled.md",
+    "WIP",
+    "README.md",
     "Knowledge",
     "Index",
     "Attachments",
     "Untitled 1.md",
     "Projects",
-    "26 IYNA Essay.gdoc",
+    "Projects/26 IYNA Essay.gdoc",
     "IYNA.gdoc",
     "Private",
     "!IYNA.gdoc.md",
