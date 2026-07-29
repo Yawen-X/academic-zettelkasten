@@ -1,1 +1,6 @@
-{}
+{
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "Attachments"
+}
