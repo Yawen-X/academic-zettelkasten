@@ -1,0 +1,5 @@
+# Ignore unless explicitly approved
+/*
+!/.gitignore
+!/README.md
+!/Public/
