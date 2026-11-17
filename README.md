@@ -5,6 +5,7 @@ The current list of important plugins used are:
 - ScholarWeft
 - Templater
 - Git
+
 Also used for QoL are:
 - Tab gorups
 - Influx (a vibe-coded edited version fixing many of the bugs)
