@@ -1,4 +1,7 @@
-This is a Obsidian vualt, which is currently my MYP Personal Project. This is inspired by concepts of Zettelkasten, and Evergreen notes. Currently includes only the templates. 
+---
+updated: 2026-11-17
+---
+This is a Obsidian vualt, which is currently my MYP Personal Project. This is inspired by concepts of Zettelkasten, and Evergreen notes. Currently includes only the templates, and some source note examples
 
 The current list of important plugins used are:
 - Linter
